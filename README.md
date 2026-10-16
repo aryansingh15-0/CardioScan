@@ -217,3 +217,11 @@ The report has been cleaned to remove placeholders and to align the documented d
 ## License
 
 The project source code is released under the MIT License. The MIT-BIH Arrhythmia Database is a separate dataset with its own access and licensing terms; consult PhysioNet before redistributing or using the dataset.
+
+## Project Maintainer
+
+Maintained by Aryan Singh.
+
+Original project: [CardioScan](https://github.com/amankumar254/CardioScan)
+
+This repository is maintained and extended with appropriate credit to the original author.
